@@ -15,6 +15,6 @@ Welcome to the IPL 2023 Data Analysis Project, an in-depth exploration of the 20
 Join us as we dive into the 2023 IPL season, offering data-driven perspectives that help inform strategies and celebrate cricket at its finest!
 
 # How to Use
-1. Download the IPL_Data_Analysis.pbix file.
+1. Download the IPL2023p.pbix file.
 2. Open the file in Power BI Desktop.
 3. Explore the interactive dashboard to uncover insights into IPL player and team performance
